@@ -1,12 +1,40 @@
 <h1 align="center">Hi 👋, I'm Atharva Sakpal</h1>
 <h3 align="center">A passionate web developer from India</h3>
  🚀Welcome To My Profile
+# 🖥️ Scripting
+
+<p align="center">
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" height="60" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" height="60" />
+</p>
+<p>DREAM COMPANIES</p>
+# 🎯 Aim
+
+<p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/aim-11608844-9378991.gif" alt="Aim Logo" height="100" />
+</p>
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" height="60" style="margin-right: 20px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" height="60" style="margin-right: 20px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" height="60" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="60" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" height="60" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" height="60" />
 </p>
+
+# 🌐 Web Development
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Logo" height="60" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" height="60" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" height="60" />
+</p>
+
+
+
 
 Welcome to my project!
 ## 🔧 Features
@@ -14,7 +42,7 @@ Welcome to my project!
 - **Amazon**: Integrates with Amazon's vast product catalog and services.
 - **Google**: Utilizes Google's APIs for enhanced functionality.
 - **AWS**: Deploys infrastructure using Amazon Web Services for scalability.
-
+- 
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
