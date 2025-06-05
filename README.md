@@ -80,7 +80,7 @@ Welcome to my project!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atharva sakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva sakpal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/"atharva_sakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva sakpal" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1ntpczpf4z/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ntpczpf4z/?mibextid=wwxifr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atharva_sakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva_sakpal" height="30" width="40" /></a>
 </p>
@@ -90,7 +90,7 @@ Welcome to my project!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaa&show_icons=true&locale=en&layout=compact" alt="atharvaa" /></p>
 
-<h1 align="center">Awesome GitHub Profile README
+
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
