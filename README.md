@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Sakpal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India!</h3>
  🚀Welcome To My Profile
 # 🖥️ Scripting
 
@@ -42,7 +42,7 @@ Welcome to my project!
 - **Amazon**: Integrates with Amazon's vast product catalog and services.
 - **Google**: Utilizes Google's APIs for enhanced functionality.
 - **AWS**: Deploys infrastructure using Amazon Web Services for scalability.
-- 
+  
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
